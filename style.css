@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(250, 236, 223);
+}
+
+.Card {
+    background-color: bisque;
+    width: 450px;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 7%;
+}
+
+.Card img {
+    width: 450px;
+    padding: 30px;
+}
+
+.Card img.nftCardImage {
+    border-radius: 50px;
+}
