@@ -85,3 +85,10 @@ body {
     font-weight: 600;
     color: rgb(68, 63, 57);
 }
+
+hr {
+    max-width: 350px;
+    margin-left: 50px;
+    height: 2px;
+    border-color: rgb(68, 63, 57);
+}
